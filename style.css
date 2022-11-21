@@ -492,21 +492,21 @@ h2 {
 }
 
 .choix2_pize:hover {
-	background-image: url("/img/icone/tour-de-pise.png");
+	background-image: url("img/icone/tour-de-pise.png");
 	background-size: 105%;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .choix3_khalifa:hover {
-	background-image: url("/img/icone/burj-khalifa.png");
+	background-image: url("img/icone/burj-khalifa.png");
 	background-size: 105%;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .choix1_eiffel:hover {
-	background-image: url("/img/icone/tour-eiffel.png");
+	background-image: url("img/icone/tour-eiffel.png");
 	background-size: 105%;
 	background-repeat: no-repeat;
 	background-position: center;
